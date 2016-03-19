@@ -1,0 +1,83 @@
+body {
+  background-color: grey;
+  font-family: "Baskerville";
+  text-align: center;
+}
+
+header h1 {
+	font-size: 50px;
+	padding: 0px;
+}
+
+nav {
+	padding: 10px;
+}
+
+.articleContainer {
+  background-color: #FFFFFF;
+  padding-top: 5px 20px 20px 20px;
+  margin: 0px 50px;
+}
+
+section {
+	text-align: left;
+	padding: 20px;
+}
+
+section h1 {
+	text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  padding: 0px;
+}
+
+.postAuthor {
+  font-size: 20px;
+}
+
+footer {
+  background-color: #444444;
+  padding: 30px 10px;
+  border-top: 5px solid white;
+  color: white;
+  font-size: 10px;
+  font-style: italic;
+  width: 100%;
+}
+
+ul {
+  margin-right: 30px;
+}
+
+#centerIndex { 
+  width: 33%;
+  margin: auto;
+}
+
+#centerAbout {
+	width: 45%;
+	margin: auto;
+}
+
+footer a:link {
+  color: #FFFFFF;
+}
+
+footer a:visited {
+` color: #CCCCCC;
+}
+
+footer a:hover {
+  color: #999999;
+}
+
+footer ul {
+	list-style-type: none;	
+}
+
+.floatedBox {
+	float: left;
+	margin: 5px 20px 5px 20px;
+}
